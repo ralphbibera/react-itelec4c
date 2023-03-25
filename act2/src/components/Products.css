@@ -1,0 +1,20 @@
+.card {
+  background-color: #444444 !important;
+  word-wrap: break-word;
+  width: 350px;
+  color: white;
+  display: flex;
+  border-radius: 10px;
+  box-shadow: 0 0 1px #fff, 0 0 2px #fff, 0 0 3px #fff, 0 0 4px #fefefe,
+    0 0 7px #fff, 0 0 16px #fff, 0 0 10px #1f1f1f, 0 0 15px #fff;
+}
+
+.img-product {
+  border-radius: 10px;
+  border: black 2px solid !important;
+}
+
+p {
+  text-justify: auto;
+  text-align: justify;
+}
