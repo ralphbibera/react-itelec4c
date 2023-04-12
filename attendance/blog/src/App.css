@@ -1,0 +1,18 @@
+.header {
+  text-align: center;
+}
+
+.card {
+  border: 1px solid black;
+  margin: 1rem;
+  padding: 2rem;
+}
+
+.content {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.title {
+  text-align: center;
+}

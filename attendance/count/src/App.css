@@ -1,0 +1,15 @@
+.app {
+  text-align: center;
+}
+
+button {
+  font-size: 2rem;
+  padding: 1rem;
+  margin: 1rem;
+  border: none;
+  background-color: #ccc;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+/* Attendance by Bibera */
